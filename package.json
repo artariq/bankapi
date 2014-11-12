@@ -22,7 +22,13 @@
   },
   "homepage": "https://github.com/artariq/bankapi",
   "dependencies": {
+    "async": "^0.9.0",
+    "bcrypt": "^0.8.0",
+    "body-parser": "^1.9.2",
     "express": "^4.10.2",
-    "mongoose": "^3.8.19"
+    "mongoose": "^3.8.19",
+    "passport": "^0.2.1",
+    "socket.io": "^1.2.0",
+    "winston": "^0.8.3"
   }
 }
